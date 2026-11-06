@@ -1,0 +1,5 @@
+langchain==0.3.27
+langchain-openai==0.3.35
+openai==2.21.0
+httpx==0.28.1
+dotenv
